@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+old/
+__pycache__/
+.ipynb_checkpoints/
+scripts/.ipynb_checkpoints
+scripts/old
+data_lpp/bids
+data_lpp/extract_ts
+data_lpp/concat_ts
