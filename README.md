@@ -1,7 +1,7 @@
 Analysis for {authors blinded} (submitted)
 =============================================
 
-Data and analysis code for  *FINAL TITLE* [link](http://www.todo.pdf)
+Data and analysis code for  *FINAL TITLE* [Temporary Google Doc](https://docs.google.com/document/d/1CBez4FnFGgAkAvv5SDTsTOlD5ulK7alpOWm7NCzRKdQ/edit?usp=sharing)
 
 
 ***
