@@ -13,3 +13,4 @@ data_lpp/story_data/lpp_en_audio/*.wav
 data_lpp/story_data/lpp_en_audio/*.TextGrid
 data_lpp/story_data/lpp_fr_audio/*.wav
 data_lpp/story_data/lpp_fr_audio/*.TextGrid
+*.DS_Store
