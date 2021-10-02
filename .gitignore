@@ -4,6 +4,11 @@ __pycache__/
 .ipynb_checkpoints/
 scripts/.ipynb_checkpoints
 scripts/old
-data_lpp/bids
-data_lpp/extract_ts
-data_lpp/concat_ts
+data_lpp/fmri_data/bids
+data_lpp/fmri_data/extract_ts
+data_lpp/story_data/lpp_cn_audio/*.wav
+data_lpp/story_data/lpp_cn_audio/*.TextGrid
+data_lpp/story_data/lpp_en_audio/*.wav
+data_lpp/story_data/lpp_en_audio/*.TextGrid
+data_lpp/story_data/lpp_fr_audio/*.wav
+data_lpp/story_data/lpp_fr_audio/*.TextGrid
