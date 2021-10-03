@@ -1,4 +1,5 @@
 from scipy.stats import pearsonr, zscore
+from scipy.spatial.distance import squareform
 import numpy as np
 
 def lpp_isc(data, pairwise=False, summary_statistic=None, verbose=True):
