@@ -8,11 +8,14 @@ data_lpp/fmri_data/bids
 data_lpp/fmri_data/extract_ts/lpp_cn_fmri
 data_lpp/fmri_data/extract_ts/lpp_en_fmri
 data_lpp/fmri_data/extract_ts/lpp_fr_fmri
+data_lpp/fmri_data/extract_ts/
+data_lpp/fmri_data/extract_ts/lpp_alllang_allruns_fmri_resampled_concatenated
 data_lpp/fmri_data/concat_ts
 data_lpp/story_data/lpp_cn_audio/*.wav
 data_lpp/story_data/lpp_cn_audio/*.TextGrid
 data_lpp/story_data/lpp_en_audio/*.wav
 data_lpp/story_data/lpp_en_audio/*.TextGrid
 data_lpp/story_data/lpp_fr_audio/*.wav
+data_lpp/story_data/annotation
 data_lpp/story_data/lpp_fr_audio/*.TextGrid
 **.DS_Store
