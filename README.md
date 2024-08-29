@@ -1,7 +1,9 @@
 Analysis for {authors blinded} (submitted)
 =============================================
 
-Data and analysis code for  *FINAL TITLE* [Temporary Google Doc](https://docs.google.com/document/d/1CBez4FnFGgAkAvv5SDTsTOlD5ulK7alpOWm7NCzRKdQ/edit?usp=sharing)
+Data and analysis code for  *Collective Brain Alignment During Story Reception: 
+Shared Neural Responses in French, Chinese, and English Listeners 
+of Le Petit Prince, 小王子, or The Little Prince* [Link to Paper](https://docs.google.com)
 
 
 ***
@@ -24,4 +26,4 @@ Data and analysis code for  *FINAL TITLE* [Temporary Google Doc](https://docs.go
 -   see environment file
 
 
-2021 | X
+2024 | X
