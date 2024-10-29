@@ -1,4 +1,4 @@
-Analysis for {authors blinded} (submitted)
+Analysis for Schmälzle, Lim, Jahn, Wilcox, & Ye (2024). Asian Communication Research
 =============================================
 
 Data and analysis code for  *Collective Brain Alignment During Story Reception: 
