@@ -1,9 +1,7 @@
 Analysis for Schmälzle, Lim, Jahn, Wilcox, & Ye (2024). Asian Communication Research
 =============================================
 
-Data and analysis code for  *Collective Brain Alignment During Story Reception: 
-Shared Neural Responses in French, Chinese, and English Listeners 
-of Le Petit Prince, 小王子, or The Little Prince* [Link to Paper](https://doi.org/10.20879/acr.2024.21.024)
+Data and analysis code for  *Collective Brain Alignment During Story Reception: Shared Neural Responses in French, Chinese, and English Listeners of Le Petit Prince, 小王子, or The Little Prince*. Asian Communication Research [Link to Paper](https://doi.org/10.20879/acr.2024.21.024)
 
 
 ***
